@@ -1,6 +1,11 @@
 # tree_of_life
 
 The "tree of life" in g-code for your CNC Milling Machine. I've used 5mm plywood and a 1.4mm mill. Z is -5.25, because a wood plate is not flat. 
+The raw g-code was created using Inkscape: https://inkscape.org/de/ and you may test the code here: https://nraynaud.github.io/webgcode/
+
+X: 301.97 mm
+Y: 301.95 mm
+
 
 ![baumdeslebens](https://user-images.githubusercontent.com/34414160/121781372-a9df7080-cba4-11eb-90a4-6f601f1f3398.jpg)
 
